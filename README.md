@@ -4,7 +4,9 @@ The Simpsons Birthday Card is a project built for retrieving a random quote from
 
 In this project, Axios makes the API call to retrieve JSON data from the [Simpsons API](https://thesimpsonsquoteapi.glitch.me/). The function created to call the API uses the Async/Await syntax to handle asynchronous operations.
 
-You can access the project's webpage without having to download it. 
+## Challenges Met in the Project:
+1. Positioning the button below the card using CSS methods.
+2. Positioning the background image and main logo to dynamically adjust with the webpage's size.
 
 ## Installation
 
@@ -16,18 +18,26 @@ git clone git@github.com:edwrddz6/js_api_simpsons_project.git
 
 ## Usage
 
-```python
-import foobar
+```bash
+cd vite-project
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+npm run dev
 ```
+
+Once you run the previous command, hold 'ctrl' on Windows or 'cmd' on Mac and click onthe link of your local host.
+
+```bash
+> vite-project@0.0.0 dev
+> vite
+
+
+  VITE v5.0.5  ready in 272 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+```
+
 
 ## Contributing
 
@@ -38,9 +48,15 @@ Please make sure to update tests as appropriate.
 
 ## References
 
+[Simpsons Random Quotes API](https://thesimpsonsquoteapi.glitch.me/)
+
 [CDN Fonts The Simpsons Font](https://www.cdnfonts.com/homer-simpson-revised.font)
 
 [CodeWizardsHQ Holiday Card CSS](https://www.codewizardshq.com/html-css-tutorial-holiday-card/)
+
+[Simpsons Birthday Card Image](https://www.etsy.com/listing/1415163213/homer-simpson-printable-greeting-card?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_e-paper_and_party_supplies-paper-greeting_cards-other&utm_custom1=_k_CjwKCAiAjrarBhAWEiwA2qWdCFRTggGSE6zIilZOhAXU9x8JMxEqcx3wJiBzktNG1MJCFm07dA7IihoCFcMQAvD_BwE_k_&utm_content=go_12563207983_123128386241_507186785941_pla-314261241547_c__1415163213_556308834&utm_custom2=12563207983&gad_source=1&gclid=CjwKCAiAjrarBhAWEiwA2qWdCFRTggGSE6zIilZOhAXU9x8JMxEqcx3wJiBzktNG1MJCFm07dA7IihoCFcMQAvD_BwE)
+
+[Simpsons Background Image](https://417arcades.com/wallpaper-clouds-figure-background-simpsons-art-begin131920x1200/)
 
 ## License
 

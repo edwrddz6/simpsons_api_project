@@ -24,20 +24,17 @@ cd vite-project
 npm run dev
 ```
 
-Once you run the previous command, hold 'ctrl' on Windows or 'cmd' on Mac and click onthe link of your local host.
+Once you run the previous command, hold 'ctrl' on Windows or 'cmd' on Mac and click on the link of your local host. For example, the link that appears next to "Local", please click to open it in your browser.
 
 ```bash
-> vite-project@0.0.0 dev
-> vite
-
-
-  VITE v5.0.5  ready in 272 ms
-
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
 ```
 
+## How to Use
+
+To retrieve a new quote, simply click on the button below the birthday card.
 
 ## Contributing
 

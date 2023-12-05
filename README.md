@@ -1,10 +1,15 @@
+[![Screenshot-2023-12-04-at-6-26-44-PM.png](https://i.postimg.cc/6py6rkZ8/Screenshot-2023-12-04-at-6-26-44-PM.png)](https://postimg.cc/gxbPdBNp)
+
 # The Simpsons Birthday Card
 
 The Simpsons Birthday Card is a project built for retrieving a random quote from a Simpsons character presented in the form of a birthday card.
 
 In this project, Axios makes the API call to retrieve JSON data from the [Simpsons API](https://thesimpsonsquoteapi.glitch.me/). The function created to call the API uses the Async/Await syntax to handle asynchronous operations.
 
-## Challenges Met in the Project:
+### List of Tech Used
+HTML - CSS - Vanilla JS - Axios - Vite - NPM
+
+## Challenges Met in the Project
 1. Positioning the button below the card using CSS methods.
 2. Positioning the background image and main logo to dynamically adjust with the webpage's size.
 

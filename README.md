@@ -41,7 +41,7 @@ If you have any issues, please contact me through Github.
 
 ## How to Use
 
-To retrieve a new quote, simply click on the button below the birthday card.
+Move your cursor over the birthday card to reveal its contents. Inside, you'll find a quote from a character in The Simpsons. To get a different quote, just click on the button located beneath the birthday card.
 
 ## Contributing
 

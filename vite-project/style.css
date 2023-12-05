@@ -7,7 +7,7 @@ body {
   align-items: center;
   text-align: center;
   font-family: 'Homer Simpson Revised', sans-serif;
-  background-image: url('simpsons-background.jpeg');
+  background-image: url('images/simpsons-background.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .front {
-  background: url('homer-birthday.png') no-repeat center darkred;
+  background: url('images/homer-birthday.png') no-repeat center darkred;
   background-size: cover;
 }
 

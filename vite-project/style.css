@@ -24,7 +24,7 @@ body {
 }
 
 .front {
-  background: url('images/homer-birthday.png') no-repeat center darkred;
+  background: url('images/homer-birthday.png') no-repeat center;
   background-size: cover;
 }
 
